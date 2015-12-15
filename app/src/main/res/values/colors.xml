@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorBackground">#ECF0F1</color>
+    <color name="colorProgressBarBackground">#D2D7D3</color>
+    <color name="progressTwentyPercent">#446CB3</color>
+    <color name="progressFourtyPercent">#3498DB</color>
+    <color name="progressSixtyPercent">#6BB9F0</color>
+    <color name="progressHundredPercent">#C5EFF7</color>
+</resources>
